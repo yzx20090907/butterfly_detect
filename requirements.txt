@@ -1,0 +1,7 @@
+tkinter
+Pillow
+opencv-python
+torch
+ultralytics
+json
+# 以上库需求为GPT生成，读者可根据自己的需求进行修改。
