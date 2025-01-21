@@ -1,6 +1,6 @@
 废话不多说直接上图
 
-![](https://cdn.nlark.com/yuque/0/2025/jpeg/38622944/1737377718656-75ed9a99-0cad-4b95-bff6-ad47f7e46739.jpeg)
+![](https://cdn.nlark.com/yuque/0/2025/png/38622944/1737439636540-236667d0-3103-43b5-8428-579893ffc907.png?x-oss-process=image%2Fresize%2Cw_1500%2Climit_0)
 
 # 功能如下
 + 63种蝴蝶种类识别
